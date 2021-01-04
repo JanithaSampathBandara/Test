@@ -38,5 +38,5 @@ build/
 .mvn/
 mvnw
 .md
-.cmd
+*.cmd
 
